@@ -1,0 +1,16 @@
+#header-img {
+    width: 80pt;
+    float: left;
+}
+#header-title {
+    font-size: 40pt;
+    margin-left: 80pt;
+    margin-top: 12pt;
+}
+#header-tagline {
+    font-size: 15pt;
+    font-style: italic;
+    text-indent: 40pt;
+    margin-left: 80pt;
+    margin-bottom: 5pt;
+}

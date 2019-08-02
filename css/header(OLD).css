@@ -1,0 +1,23 @@
+#header {
+    width: 100%;
+    overflow: hidden;
+}
+#header-right {
+}
+#header-logo {
+    width: 6%;
+    float: left;
+    padding-right: 2%;
+}
+#header-logo-img{
+    width: 100%;
+}
+#header-title {
+    font-size: 40pt;
+    padding-top: 0%;
+}
+#header-tagline {
+    font-size: 15pt;
+    text-indent: 5%;
+    font-style: italic;
+}
